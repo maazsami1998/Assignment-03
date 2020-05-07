@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+html, body{
+  height: 100%;
+  width: 100%;
+  font-family: Poppins, sans-serif;
+  color: #222;
+  background-color: #eee;
+}
+
+.navbar-nav li{
+  padding-right: 20px;
+}
+.nav-link{
+  font-size: 16px;
+  transition: .5s all ease;
+}
+.nav-link:hover{
+  background-color: #316DC3;
+  border-radius: 10px; 
+}
+.active{
+  background-color: #316DC3;
+  border-radius: 10px;
+}
+.btn-primary{
+  background-color: #6648b1;
+  border: 1px #563d7c;
+}
+.btn-primary:hover{
+  background-color: #563d7c;
+}
+.jumbotron{
+  padding-right: 1rem;
+  border-radius: 0;
+}
+.padding{
+  padding-bottom: 2rem;
+}
+.welcome{
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
+.welcome hr{
+  border-top: 2px solid #b4b4b4;
+  margin-top: .3rem;
+  margin-bottom: 1rem;
+  width: 95%;
+}
+
+.intro{
+  background-color: #316DC3;
+}
+.social{
+  text-align: center;
+  margin-top: 12px; 
+}
+.btns{
+  margin-top: 5px;
+  text-align: center;
+}
+.uk{
+  background-color: #CCC;
+  color: #000;
+}
+
+.social a{
+  padding: 5px;
+  font-size: 16px;
+}
+.fa-facebook{
+  color: #3b5998;
+}
+.fa-twitter{
+  color: #00aced;
+}
+.fa-instagram{
+  color: #517fa4;
+}
+.fa-whatsapp{
+  color: green;
+}
+.fa-youtube{
+  color: #bb0000 ;
+}
+.mill p{
+  color: #FFF;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.slider{
+  text-align: center;
+}
+.slider img{
+  width: 100%;
+}
+.mq{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color:  #316DC3;
+  width: 100%;
+  color: #FFF;
+}
+.two{
+  margin-top: 20px;
+  text-align: center;
+}
+.two h2{
+  color: #316DC3;
+  font-weight: 700;
+}
+.two span{
+  color: green;
+}
+.space{
+  font-weight: 700;
+  color: green;
+}
+.para{
+  margin-bottom: 5rem;
+}
+.counter{
+  background-color: rgba(36, 79, 242, 0.8);
+  text-align: center;
+  color: #FFF;
+  padding: 30px 0;
+}
+.gr{
+  color: rgb(0, 255, 0);
+}
+.counteritems img{
+  width: 10%;
+}
+.counteritems h1{
+  font-weight: 700;
+}
+.fixwidth{
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.card{
+  text-align: center;
+}
+.card h3{
+  color: blue;
+}
+.card img{
+  position: relative;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  width: 10%;
+  left: 45%;
+}
+.white{
+  background-color: #FFF;
+  margin-top: 7rem;
+}
+.white h2{
+  color: blue;
+  font-weight: 700;
+  padding-top: 7rem;
+}
+.event marquee{
+  width: 70%;
+  height: 40%;
+}
+.padtop{
+  margin-bottom: 7rem;
+  text-align: center;
+}
+.fa-phone{
+  color: green;
+}
+.fa-globe{
+  color: green;
+}
+.fa-envelope{
+  color: green;
+}
+hr.hg{
+  color: green;
+}
+h4{
+  color: #FFF;
+}
+.bl{
+  background-color: blue;
+  text-align: center;
+}
+.bl p{
+  margin-top: 20px;
+}
+
+footer{
+  background-color: #3f3f3f;
+  color: #d5d5d5;
+  padding-top: 2rem;
+}
+.border{
+  border: 2px solid green;
+  background-color: green;
+  width: 10%;
+  height: 3px; 
+  margin-bottom: 3rem;
+}
+footer a{
+  color: #d5d5d5;
+}
